@@ -3,7 +3,7 @@ site_url: https://careers.hintjen.com
 site_description: Hintjen is a global leader in the development of innovative software solutions.
 theme:
   name: material
-  # logo: images/hintjen.png
+  logo: images/H.png
   favicon: images/hintjen.png
 extra_css:
   - stylesheets/extra.css

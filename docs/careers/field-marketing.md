@@ -1,6 +1,9 @@
 # Field Marketing Specialist
 
-**Part-Time, 20 hrs/week**
+<ul class="job-info">
+    <li> Location: Mississippi State, MS </li>
+    <li> Part-time 20 hrs/week</li>
+</ul>
 
 ## Position Overview:
 

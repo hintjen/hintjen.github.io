@@ -31,3 +31,13 @@
 .md-header__inner {
     margin-bottom: 15px;
 }
+.md-typeset h1 {
+    font-weight: 500;
+    color: black;
+}
+
+.job-info {
+    list-style: none !important;
+    margin: 0;
+    padding: 0;
+}
