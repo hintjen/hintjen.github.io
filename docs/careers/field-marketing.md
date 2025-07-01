@@ -5,11 +5,11 @@
     <li> Part-time 20 hrs/week</li>
 </ul>
 
-## Position Overview:
+## Position Overview
 
 Join Hintjen's marketing team to drive awareness and community engagement for Homerun Desktop, our revolutionary Minecraft server hosting solution. You'll execute field marketing campaigns that connect with gaming communities, Minecraft players, and content creators to showcase how Homerun Desktop transforms Minecraft multiplayer hosting.
 
-## Key Responsibilities:
+## Key Responsibilities
 
 * Plan and execute gaming events, Minecraft community meetups, and gaming convention presence
 * Represent Homerun Desktop at gaming conferences, conventions, and university gaming events
@@ -20,7 +20,7 @@ Join Hintjen's marketing team to drive awareness and community engagement for Ho
 * Organize Homerun Desktop demonstrations and hands-on workshops
 * Track and report on field marketing campaign effectiveness in gaming communities
 
-## Required Qualifications:
+## Required Qualifications
 
 * Currently enrolled undergraduate or graduate student
 * Excellent time management and organizational skills
@@ -33,7 +33,7 @@ Join Hintjen's marketing team to drive awareness and community engagement for Ho
 * Ability to work independently and manage multiple projects
 * Comfortable presenting to groups and networking
 
-## Preferred Qualifications:
+## Preferred Qualifications
 
 * Passion for gaming, especially Minecraft and multiplayer gaming
 * Knowledge of gaming communities, Discord servers, and content creator ecosystems
@@ -42,7 +42,7 @@ Join Hintjen's marketing team to drive awareness and community engagement for Ho
 * Experience with CRM systems and lead management
 * Basic understanding of social media marketing
 
-## What You'll Gain:
+## What You'll Gain
 
 * Hands-on experience in B2B tech marketing
 * Exposure to cutting-edge distributed internet technologies
