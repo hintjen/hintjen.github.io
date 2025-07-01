@@ -1,17 +1,65 @@
 # Hintjen Internship Opportunities
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+<div class="grid cards" markdown>
 
-## Commands
+-   :fontawesome-solid-people-group:{ .lg .middle } __Field Marketing__
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+    ---
 
-## Project layout
+    Drive awareness for Homerun Desktop, our revolutionary Minecraft server hosting solution. You'll execute field marketing campaigns connecting with gaming communities.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+    [:octicons-arrow-right-24: Learn More](careers/field-marketing.md)
+
+-   :mobile_phone:{ .lg .middle } __Digital Marketing Specialist__
+
+    ---
+
+    Drive Homerun Desktop's digital presence and grow our gaming community through strategic online marketing campaigns. 
+   
+    [:octicons-arrow-right-24: Learn more](careers/digital-marketing.md)
+
+-   :fontawesome-solid-laptop-code:{ .lg .middle } __Web Developer__
+
+    ---
+
+    Contribute to Homerun Desktop's web applications and user-facing features. You'll develop dashboard interfaces and marketing websites that make Minecraft server hosting accessible to all players.
+
+    [:octicons-arrow-right-24: Learn More](careers/web-developer.md)
+
+-   :material-file-code:{ .lg .middle } __Systems Developer__
+
+    ---
+
+    Work on the core infrastructure powering Homerun Desktop's collaborative Minecraft server hosting. You'll develop backend systems that enable seamless server handoffs and ensure reliable multiplayer gaming experiences.
+
+    [:octicons-arrow-right-24: Learn More](careers/systems-developer.md)
+
+</div>
+
+
+<!-- 
+<div class="jobs-grid">
+  <div class="job-card">
+    <h3>Digital Marketing</h3>
+    <p>Part-time position</p>
+    <a href="careers/digital-marketing-part-time/">View Details</a>
+  </div>
+  
+  <div class="job-card">
+    <h3>Field Marketing</h3>
+    <p>Part-time position</p>
+    <a href="careers/field-marketing-part-time/">View Details</a>
+  </div>
+  
+  <div class="job-card">
+    <h3>Web Developer</h3>
+    <p>Part-time position</p>
+    <a href="careers/web-developer-part-time/">View Details</a>
+  </div>
+  
+  <div class="job-card">
+    <h3>Systems Developer</h3>
+    <p>Part-time position</p>
+    <a href="careers/systems-developer-part-time/">View Details</a>
+  </div>
+</div> -->

@@ -1,0 +1,13 @@
+:root {
+  /* Your brand color */
+  --md-primary-fg-color: #5677da;
+  --md-primary-fg-color--light: #5677da;
+  --md-primary-fg-color--dark: #5677da;
+  
+  /* Accent color */
+  --md-accent-fg-color: #5677da;
+  
+  /* Keep backgrounds white */
+  --md-default-bg-color: #ffffff;
+  --md-default-fg-color: #000000;
+}
