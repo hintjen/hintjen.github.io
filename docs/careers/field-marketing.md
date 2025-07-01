@@ -46,8 +46,8 @@ Join Hintjen's marketing team to drive awareness and community engagement for Ho
 * Flexible schedule that accommodates academic commitments
 * Opportunity to shape marketing strategy for an innovative startup
 
- <!-- > <div style="text-align: center; margin: 30px 0;">
-  <a href="https://forms.gle/YOUR_GOOGLE_FORM_ID" target="_blank" style="background-color: #5677da; color: white; padding: 12px 30px; border-radius: 5px; text-decoration: none; font-weight: bold; display: inline-block;">
+ <div style="text-align: center; margin: 30px 0;">
+  <a href="https://forms.gle/54pvVXxXGHd64oEk6" target="_blank" style="background-color: #5677da; color: white; padding: 12px 30px; border-radius: 5px; text-decoration: none; font-weight: bold; display: inline-block;">
     Apply Now
   </a>
-</div> -->
+</div>

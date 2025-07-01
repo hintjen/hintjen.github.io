@@ -47,8 +47,8 @@ Solid understanding of Django and Python for backend integration
 * Understanding of how web technologies integrate with gaming infrastructure and multiplayer systems
 * Contribution to a revolutionary gaming product that's changing Minecraft server hosting
 
- <!-- > <div style="text-align: center; margin: 30px 0;">
-  <a href="https://forms.gle/YOUR_GOOGLE_FORM_ID" target="_blank" style="background-color: #5677da; color: white; padding: 12px 30px; border-radius: 5px; text-decoration: none; font-weight: bold; display: inline-block;">
+<div style="text-align: center; margin: 30px 0;">
+  <a href="https://forms.gle/AWXCMkWr1DQTYZHm7" target="_blank" style="background-color: #5677da; color: white; padding: 12px 30px; border-radius: 5px; text-decoration: none; font-weight: bold; display: inline-block;">
     Apply Now
   </a>
-</div> -->
+</div>
