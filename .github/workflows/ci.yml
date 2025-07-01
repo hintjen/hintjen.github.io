@@ -1,4 +1,4 @@
-name: ci 
+name: Build and Deploy Hintjen Careers Site 
 on:
   push:
     branches:
@@ -8,7 +8,7 @@ on:
 permissions:
   contents: write
 jobs:
-  deploy:
+  build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
