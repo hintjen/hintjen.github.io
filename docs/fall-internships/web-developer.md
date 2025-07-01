@@ -1,4 +1,4 @@
-# Web Developer 
+# Web Developer Intern
 
 <ul class="job-info">
     <li> Mississippi State Students</li>

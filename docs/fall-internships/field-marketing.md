@@ -1,4 +1,4 @@
-# Field Marketing Specialist
+# Field Marketing Intern
 
 <ul class="job-info">
     <li> Mississippi State Students</li>
