@@ -1,6 +1,7 @@
 # Systems Developer
 
 <ul class="job-info">
+    <li> Mississippi State Students</li>
     <li> Location: Mississippi State, MS </li>
     <li> Part-time 20 hrs/week</li>
 </ul>
