@@ -11,3 +11,23 @@
   --md-default-bg-color: #ffffff;
   --md-default-fg-color: #000000;
 }
+
+/* Replace the header title with an image */
+.md-header__title {
+    background-image: url('Hintjen_Careers.svg'); /* Path to your image */
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: left;
+    width: 200px; /* Adjust width as needed */
+    height: 50px; /* Adjust height as needed */
+    text-indent: -9999px; /* Hide text */
+    overflow: hidden;
+}
+
+.md-header__button.md-logo {
+    display: none;
+}
+
+.md-header__inner {
+    margin-bottom: 15px;
+}

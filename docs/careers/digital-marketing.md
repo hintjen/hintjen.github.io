@@ -45,8 +45,8 @@ Drive Homerun Desktop's digital presence and grow our gaming community through s
 * Portfolio of gaming marketing campaigns and community engagement initiatives
 * Understanding of gaming market dynamics and community-driven growth strategies
 
- <!-- > <div style="text-align: center; margin: 30px 0;">
-  <a href="https://forms.gle/YOUR_GOOGLE_FORM_ID" target="_blank" style="background-color: #5677da; color: white; padding: 12px 30px; border-radius: 5px; text-decoration: none; font-weight: bold; display: inline-block;">
+<div style="text-align: center; margin: 30px 0;">
+  <a href="https://forms.gle/fiJp3QP9wsrNZY8x9" target="_blank" style="background-color: #5677da; color: white; padding: 12px 30px; border-radius: 5px; text-decoration: none; font-weight: bold; display: inline-block;">
     Apply Now
   </a>
-</div> -->
+</div> 
