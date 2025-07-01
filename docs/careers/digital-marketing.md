@@ -46,7 +46,7 @@ Drive Homerun Desktop's digital presence and grow our gaming community through s
 * Understanding of gaming market dynamics and community-driven growth strategies
 
 <div style="text-align: center; margin: 30px 0;">
-  <a href="https://forms.gle/fiJp3QP9wsrNZY8x9" target="_blank" style="background-color: #5677da; color: white; padding: 12px 30px; border-radius: 5px; text-decoration: none; font-weight: bold; display: inline-block;">
+  <a href="https://forms.gle/MVtt7QLrhVGVPTrH7" target="_blank" style="background-color: #5677da; color: white; padding: 12px 30px; border-radius: 5px; text-decoration: none; font-weight: bold; display: inline-block;">
     Apply Now
   </a>
 </div> 

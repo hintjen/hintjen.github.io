@@ -48,7 +48,7 @@ Work on the core infrastructure that powers Homerun Desktop's collaborative Mine
 * Exposure to the latest trends in gaming infrastructure, collaborative hosting, and multiplayer technologies
 
 <div style="text-align: center; margin: 30px 0;">
-  <a href="https://forms.gle/cFjLoKQpwQhP1pqn8" target="_blank" style="background-color: #5677da; color: white; padding: 12px 30px; border-radius: 5px; text-decoration: none; font-weight: bold; display: inline-block;">
+  <a href="https://forms.gle/EZP65JyrJWKTemty6" target="_blank" style="background-color: #5677da; color: white; padding: 12px 30px; border-radius: 5px; text-decoration: none; font-weight: bold; display: inline-block;">
     Apply Now
   </a>
 </div>
