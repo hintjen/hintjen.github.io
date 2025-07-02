@@ -2,7 +2,7 @@
 
 <div class="grid cards" markdown>
 
--   :fontawesome-solid-people-group:{ .lg .middle } __Field Marketing__
+-   :fontawesome-solid-people-group:{ .lg .middle } __Field Marketing Intern__
 
     ---
 
@@ -10,7 +10,7 @@
 
     [:octicons-arrow-right-24: Learn More](fall-internships/field-marketing.md)
 
--   :mobile_phone:{ .lg .middle } __Digital Marketing Specialist__
+-   :mobile_phone:{ .lg .middle } __Digital Marketing Intern__
 
     ---
 
@@ -18,7 +18,7 @@
    
     [:octicons-arrow-right-24: Learn more](fall-internships/digital-marketing.md)
 
--   :fontawesome-solid-laptop-code:{ .lg .middle } __Web Developer__
+-   :fontawesome-solid-laptop-code:{ .lg .middle } __Web Developer Intern__
 
     ---
 
@@ -26,7 +26,7 @@
 
     [:octicons-arrow-right-24: Learn More](fall-internships/web-developer.md)
 
--   :material-file-code:{ .lg .middle } __Systems Developer__
+-   :material-file-code:{ .lg .middle } __Systems Developer Intern__
 
     ---
 
