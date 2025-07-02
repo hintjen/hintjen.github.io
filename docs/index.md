@@ -1,4 +1,4 @@
-# Home
+# Open Oportunities
 
 <div class="grid cards" markdown>
 
