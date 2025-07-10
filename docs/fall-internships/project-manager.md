@@ -40,3 +40,9 @@ Lead Homerun Desktop's campus marketing initiatives at Mississippi State Univers
 * Experience managing cross-functional technical and marketing teams
 * Portfolio of successfully executed campus marketing campaigns
 * Leadership skills through managing intern teams and campus partnerships
+
+<div style="text-align: center; margin: 30px 0;">
+  <a href="https://forms.gle/eK5jjhSVvoC5Y4cL8" target="_blank" style="background-color: #5677da; color: white; padding: 12px 30px; border-radius: 5px; text-decoration: none; font-weight: bold; display: inline-block;">
+    Apply Now
+  </a>
+</div> 
