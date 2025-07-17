@@ -1,4 +1,4 @@
-# Hintjen - Business Development Internship
+# Business Development Internship
 
 ## About Hintjen
 

@@ -1,4 +1,4 @@
-# Hintjen - Digital Marketing Internship
+# Digital Marketing Internship
 
 ## About Hintjen
 

@@ -1,4 +1,4 @@
-# Hintjen - Software Engineer (Front-end) Internship
+# Software Engineer (Front-end) Internship
 
 ## About Hintjen
 

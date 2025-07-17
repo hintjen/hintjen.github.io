@@ -1,4 +1,4 @@
-# Hintjen - Content Marketing Internship
+# Content Marketing Internship
 
 ## About Hintjen
 
@@ -36,7 +36,7 @@ Hintjen is seeking to hire a driven and creative student intern to help showcase
 - Familiarity with Minecraft and online gaming culture preferred
 - Experience with content management systems and social media platforms
 
-<div style="text-align: center; margin: 30px 0;">
+ <div style="text-align: center; margin: 30px 0;">
   <a href="https://forms.gle/54pvVXxXGHd64oEk6" target="_blank" style="background-color: #5677da; color: white; padding: 12px 30px; border-radius: 5px; text-decoration: none; font-weight: bold; display: inline-block;">
     Apply Now
   </a>
