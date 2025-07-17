@@ -1,13 +1,13 @@
 site_name: Hintjen Careers
 site_url: https://careers.hintjen.com
-site_description: Hintjen is a global leader in the development of innovative software solutions.
+site_description: Hintjen is revolutionizing the digital landscape with Homerun Desktop, a groundbreaking self-hosting platform that redefines how online communities are built, managed, and owned.
 theme:
   name: material
   logo: images/H.png
   favicon: images/hintjen.png
 extra_css:
   - stylesheets/extra.css
-markdown_extensions: 
+markdown_extensions:
   - attr_list
   - md_in_html
   - pymdownx.emoji:
