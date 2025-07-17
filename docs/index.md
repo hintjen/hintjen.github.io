@@ -2,61 +2,68 @@
 
 <div class="grid cards" markdown>
 
--   :fontawesome-solid-people-group:{ .lg .middle } __Field Marketing Intern__
+- :fontawesome-solid-laptop-code:{ .lg .middle } **Software Engineer (Front-end) Intern**
 
-    ---
+  ***
 
-    Drive awareness for Homerun Desktop, our revolutionary Minecraft server hosting solution. You'll execute field marketing campaigns connecting with gaming communities.
+  Help maintain and enhance our Homerun Desktop dashboard while building new web pages for our platform. You will work closely with design mockups and development teams to create responsive interfaces.
 
-    [:octicons-arrow-right-24: Learn More](fall-internships/field-marketing.md)
+  [:octicons-arrow-right-24: Learn More](fall-internships/software-engineer-frontend.md)
 
--   :mobile_phone:{ .lg .middle } __Digital Marketing Intern__
+- :material-file-code:{ .lg .middle } **Software Engineer (Back-end) Intern**
 
-    ---
+  ***
 
-    Drive Homerun Desktop's digital presence and grow our gaming community through strategic online marketing campaigns. 
-   
-    [:octicons-arrow-right-24: Learn more](fall-internships/digital-marketing.md)
+  Help maintain and enhance our infrastructure systems that power Homerun Desktop. You will work with our engineering team to manage virtual machines, Kubernetes deployments, and CI pipelines while extending our backend API.
 
--   :fontawesome-solid-laptop-code:{ .lg .middle } __Web Developer Intern__
+  [:octicons-arrow-right-24: Learn More](fall-internships/software-engineer-backend.md)
 
-    ---
+- :mobile_phone:{ .lg .middle } **Digital Marketing Intern**
 
-    Contribute to Homerun Desktop's web applications and user-facing features. You'll develop dashboard interfaces and marketing websites that make Minecraft server hosting accessible to all players.
+  ***
 
-    [:octicons-arrow-right-24: Learn More](fall-internships/web-developer.md)
+  Manage our social media presence and build engaging online communities around Homerun Desktop. You will be responsible for day-to-day social media management and connecting with our platform's userbase.
 
--   :material-file-code:{ .lg .middle } __Systems Developer Intern__
+  [:octicons-arrow-right-24: Learn More](fall-internships/digital-marketing.md)
 
-    ---
+- :fontawesome-solid-pen-to-square:{ .lg .middle } **Content Marketing Intern**
 
-    Work on the core infrastructure powering Homerun Desktop's collaborative Minecraft server hosting. You'll develop backend systems that enable seamless server handoffs and ensure reliable multiplayer gaming experiences.
+  ***
 
-    [:octicons-arrow-right-24: Learn More](fall-internships/systems-developer.md)
+  Help showcase our brand and demonstrate the power of Homerun Desktop through digital content. You will create, coordinate, and deliver engaging content across multiple mediums directly to our target demographics.
+
+  [:octicons-arrow-right-24: Learn More](fall-internships/content-marketing.md)
+
+- :fontawesome-solid-handshake:{ .lg .middle } **Business Development Intern**
+
+  ***
+
+  Build strategic partnerships and drive user acquisition for Homerun Desktop. You will identify and develop relationships with partners in the Minecraft and gaming ecosystems while tracking and optimizing user acquisition channels.
+
+  [:octicons-arrow-right-24: Learn More](fall-internships/business-development.md)
 
 </div>
 
-
-<!-- 
+<!--
 <div class="jobs-grid">
   <div class="job-card">
     <h3>Digital Marketing</h3>
     <p>Part-time position</p>
     <a href="careers/digital-marketing-part-time/">View Details</a>
   </div>
-  
+
   <div class="job-card">
     <h3>Field Marketing</h3>
     <p>Part-time position</p>
     <a href="careers/field-marketing-part-time/">View Details</a>
   </div>
-  
+
   <div class="job-card">
     <h3>Web Developer</h3>
     <p>Part-time position</p>
     <a href="careers/web-developer-part-time/">View Details</a>
   </div>
-  
+
   <div class="job-card">
     <h3>Systems Developer</h3>
     <p>Part-time position</p>

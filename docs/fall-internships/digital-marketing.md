@@ -1,56 +1,48 @@
-# Digital Marketing Intern
+# Hintjen - Digital Marketing Internship
 
-<ul class="job-info">
-    <li> Mississippi State Students</li>
-    <li> Location: Mississippi State, MS </li>
-    <li> Part-time 20 hrs/week</li>
-</ul>
+## About Hintjen
+
+Hintjen is revolutionizing the digital landscape with Homerun Desktop, a groundbreaking self-hosting platform that redefines how online communities are built, managed, and owned. Our mission is to democratize server hosting and empower creators who wish to build their own spaces online.
 
 ## Position Overview
 
-Drive Homerun Desktop's digital presence and grow our gaming community through strategic digital marketing campaigns. You'll help expand our reach in the Minecraft community, gaming content creators, and multiplayer gaming enthusiasts while educating audiences about our revolutionary collaborative hosting solution.
+Hintjen is seeking to hire a driven and creative student intern to manage our social media presence and build engaging online communities around Homerun Desktop. You will be responsible for day-to-day social media management and connecting with our platform's userbase.
+
+## Internship Details
+
+- **Duration:** Fall 2025 Semester
+- **Schedule:** Part-time, up to 20 hours per week
+- **Location:** Mississippi State University
+- **Enrollment:** Must be a Mississippi State University student, taking courses during the Fall 2025 semester.
 
 ## Key Responsibilities
 
-* Manage and grow social media presence across gaming platforms (Twitter, Discord, Reddit, TikTok, YouTube)
-* Create engaging gaming content including tutorials, gameplay showcases, and Homerun Desktop feature demonstrations
-* Develop video content showcasing Homerun Desktop's collaborative hosting features for Minecraft
-* Coordinate with gaming influencers, Minecraft content creators, and streamers
-* Execute email marketing campaigns targeting Minecraft server owners and gaming communities
-* Optimize website content for gaming and Minecraft-related SEO
-* Analyze digital marketing metrics specific to gaming audience engagement
-* Support content creation for Homerun Desktop feature releases and updates
+- Manage daily posting schedules across social media platforms (Twitter, Instagram, TikTok, etc.)
+- Create a maintain a content calendar for Homerun Desktop's social media accounts
+- Develop social media campaigns themed around large updates to Homerun Desktop
+- Create engaging social media posts and captions tailored to each platform
+- Create basic graphic design assets using tools like Canva for social media posts
+- Monitor and engage with our Discord community, facilitating discussions and providing support
+- Track social media analytics and community engagement metrics
+- Organize online community events and activities within our Discord server
+- Research trends within the gaming space to keep social media content timely and relevant
+- Generate weekly social media performance reports and present to Hintjen leadership
 
-## Required Qualifications
+## Qualifications
 
-* Currently enrolled undergraduate or graduate student in Marketing, Communications, or related field
-* Experience with Canva for graphic design and visual content creation
-* Proficiency with CapCut or similar video editing software
-* Experience with Ghost CMS or similar content management platforms
-* Strong content creation skills across multiple formats (written, visual, video)
-* Excellent written and verbal communication skills
-* Data-driven mindset with analytical skills
-* Creative problem-solving abilities
-
-## Preferred Qualifications
-
-* Experience marketing to gaming audiences and Minecraft communities
-* Familiarity with gaming content creation, streaming platforms, and Discord communities
-* Knowledge of Minecraft, multiplayer gaming, and server hosting concepts
-* Experience with gaming-focused social media platforms (Discord, Reddit, TikTok)
-* Previous internship or work experience in gaming or digital marketing
-* Experience with social media management and analytics tools
-* Basic understanding of SEO and digital marketing principles
-
-## What You'll Gain
-
-* Hands-on experience in gaming B2C marketing and community building
-* Exposure to innovative Minecraft server hosting and gaming infrastructure technologies
-* Portfolio of gaming marketing campaigns and community engagement initiatives
-* Understanding of gaming market dynamics and community-driven growth strategies
+- Currently enrolled at Mississippi State in Marketing, Communication, or a related degree program
+- Strong written and verbal communication skills with experience managing social media accounts
+- Ability to work independently and take initiative on projects
+- Experience with social media scheduling tools and analytics platforms
+- Knowledge of current social media trends and platform algorithm changes
+- Experience with online graphic design software like Canva
+- Experience with content management systems and social media platforms
+- Familiarity with Discord and community management best practices
+- Familiarity with Minecraft and online gaming culture preferred
+- Ability to maintain brand voice and tone across different platforms
 
 <div style="text-align: center; margin: 30px 0;">
   <a href="https://forms.gle/MVtt7QLrhVGVPTrH7" target="_blank" style="background-color: #5677da; color: white; padding: 12px 30px; border-radius: 5px; text-decoration: none; font-weight: bold; display: inline-block;">
     Apply Now
   </a>
-</div> 
+</div>
